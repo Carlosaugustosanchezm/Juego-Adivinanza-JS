@@ -6,7 +6,7 @@ let numeroEntrada = document.getElementById('numeroEntrada')
 let mensaje = document.getElementById('mensaje')
 let intento = document.getElementById('intento')
 let intentos = 0
-
+ 
 //Se programa la Operación
 function chequearResultado(){
     intentos ++
